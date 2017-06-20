@@ -1,0 +1,8 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-01]
+Authenticate client with correct username and password(1540ms) : [92mPASS![0m
+Authenticate client with wrong username and password(768ms) : [92mPASS![0m
+Authenticate client without username and password(427ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

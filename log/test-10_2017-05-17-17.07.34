@@ -1,0 +1,7 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-10]
+Show instance list from HA cluster(execution time:20ms) : [91mFAIL![0m
+Show instance list from HA cluster with wrong cluster uuid(45ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

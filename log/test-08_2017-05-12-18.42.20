@@ -1,0 +1,8 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-08]
+Add the instance to HA cluster(221237ms) : [92mPASS![0m
+Add the instance to HA cluster with wrong cluster ID(68ms) : [92mPASS![0m
+Add the instance to HA cluster with duplicate instance id(58854ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

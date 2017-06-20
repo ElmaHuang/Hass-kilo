@@ -1,0 +1,9 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-05]
+Add nodes to HA cluster with correct node list(63ms) : [92mPASS![0m
+Add nodes to HA cluster with wrong cluster ID(17ms) : [92mPASS![0m
+Add nodes to HA cluster with duplicate node list(17ms) : [92mPASS![0m
+Add nodes to HA cluster with wrong node list(18ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

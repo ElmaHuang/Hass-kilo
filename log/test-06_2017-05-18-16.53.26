@@ -1,0 +1,8 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-06]
+Delete node from HA cluster(32ms) : [92mPASS![0m
+Delete node from HA cluster with wrong cluster uuid(35ms) : [92mPASS![0m
+Delete node from HA cluster with wrong node name(21ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

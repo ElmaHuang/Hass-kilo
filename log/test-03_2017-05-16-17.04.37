@@ -1,0 +1,7 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-03]
+Delete HA cluster with correct uuid(53ms) : [92mPASS![0m
+Delete HA cluster with wrong uuid(13ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

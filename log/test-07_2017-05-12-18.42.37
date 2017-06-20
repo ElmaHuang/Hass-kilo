@@ -1,0 +1,7 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-07]
+Show node list from HA cluster(11ms) : [92mPASS![0m
+Show node list from HA cluster with wrong cluster uuid(13ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!

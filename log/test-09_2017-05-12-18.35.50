@@ -1,0 +1,8 @@
+Test Start!
+------------------------------------------------------------------------------------
+[HAaaS-TC-09]
+Delete the instance from HA cluster(97ms) : [92mPASS![0m
+Delete the instance from HA cluster with wrong instance uuid(21ms) : [92mPASS![0m
+Delete the instance from HA cluster with wrong cluster uuid(23ms) : [92mPASS![0m
+------------------------------------------------------------------------------------
+Test Finish!
